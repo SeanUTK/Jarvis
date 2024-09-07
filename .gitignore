@@ -1,0 +1,46 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.venv
+.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+
+# Compiled Python files
+*.pyc
+
+# Backup files
+*.bak
+
+# Audio files (if you don't want to include them in the repository)
+*.mp3
+*.wav
+*.ogg
+
+# Any other sensitive or large files you don't want to include
+secrets.json
+large_data.csv
